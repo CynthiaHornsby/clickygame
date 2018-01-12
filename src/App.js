@@ -30,13 +30,7 @@ class App extends Component {
     
     arrayPush = id => {
         
-        for (let i=0; i < 1; i++) {
-            imageIds.push(images[i].image);
 
-            for (var j=0; j < 1; i++) {
-                if(images[i].image)
-            }
-        }
         
         console.log(imageIds);
         
